@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;assignment8/src/assignment8/Maino.java&apos;" deleteContents="false" description="Delete resource &apos;assignment8/src/assignment8/Maino.java&apos;" element1="/assignment8/src/assignment8/Maino.java" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1415896681832"/>
+</session>

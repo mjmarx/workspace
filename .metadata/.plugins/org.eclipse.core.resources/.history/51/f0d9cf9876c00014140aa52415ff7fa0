@@ -1,0 +1,15 @@
+import java.io.FileNotFoundException;
+
+
+public class hdfs {
+
+	public void main(String[][] args) throws FileNotFoundException{
+		FileChooser fc = new FileChooser();
+		String[][] matrix = fc.readIn();
+		
+		//do stuff with matrix
+		
+		
+		
+	}
+}

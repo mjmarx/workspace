@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;340assignment0/src/FileChooserDialog.java&apos; to &apos;FileChooser.java&apos;" description="Rename resource &apos;FileChooserDialog.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/FileChooserDialog.java" name="FileChooser.java" stamp="1422244043104" updateReferences="true"/>
+</session>

@@ -1,0 +1,6 @@
+n A B C D E
+A 0 3 2 n 5
+B 4 0 5 3 n
+C n n 0 n n
+D 6 n 5 0 1
+E n 6 4 2 0

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;assignment2/src/assignment2/rectangulator.java&apos; to &apos;Rectangulator.java&apos;" description="Rename resource &apos;rectangulator.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/assignment2/rectangulator.java" name="Rectangulator.java" stamp="1411053897005" updateReferences="true"/>
+</session>

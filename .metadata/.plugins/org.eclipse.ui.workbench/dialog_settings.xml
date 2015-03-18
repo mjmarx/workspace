@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="800" key="dialogWidth"/>
+		<item value="500" key="dialogHeight"/>
+		<list key="orderedProviders">
+			<item value="org.eclipse.ui.preferences"/>
+		</list>
+		<list key="textArray">
+			<item value="workspace"/>
+		</list>
+		<list key="orderedElements">
+			<item value="org.eclipse.ui.preferencePages.Workspace"/>
+		</list>
+		<list key="textEntries">
+			<item value="1"/>
+		</list>
+	</section>
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="28" key="DIALOG_Y_ORIGIN"/>
+		<item value="225" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item value="true" key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID"/>
+		<item value="false" key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/madelinemarx/Documents/OSP-Threads-Marx.zip"/>
+			<item value="/Users/madelinemarx/Documents/OSP-Memory-Marx.zip"/>
+			<item value="OSP-Memory-Marx.zip"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.import.ExternalProject" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<item value="org.eclipse.ui.wizards.export.ZipFile" key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+</section>
